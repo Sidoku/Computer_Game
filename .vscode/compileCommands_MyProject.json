@@ -1,21 +1,21 @@
 [
 	{
-		"file": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Source\\MyProject\\AttackColliders.cpp",
+		"file": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Source\\MyProject\\laptop_AIController.cpp",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\C_Game\\Unreal_test\\.vscode\\compileCommands_MyProject\\MyProject.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Source\\MyProject\\AttackColliders.h",
+		"file": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Source\\MyProject\\laptop_AIController.h",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\C_Game\\Unreal_test\\.vscode\\compileCommands_MyProject\\MyProject.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Source\\MyProject\\Colliders_forMesh.cpp",
+		"file": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Source\\MyProject\\Mouse_collider.cpp",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\C_Game\\Unreal_test\\.vscode\\compileCommands_MyProject\\MyProject.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Source\\MyProject\\Colliders_forMesh.h",
+		"file": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Source\\MyProject\\Mouse_collider.h",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\C_Game\\Unreal_test\\.vscode\\compileCommands_MyProject\\MyProject.211.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},

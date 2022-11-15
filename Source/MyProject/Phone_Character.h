@@ -6,6 +6,15 @@
 #include "GameFramework/Character.h"
 #include "Phone_Character.generated.h"
 
+
+UENUM(BlueprintType)
+	enum class PhoneAttackMode : uint8
+	{
+		Attack UMETA(DisplayName="Attack"),
+		Standby UMETA(DisplayName="Standby"),
+		Jump UMETA(DisplayName="Jump")
+	};
+
 UCLASS()
 class MYPROJECT_API APhone_Character : public ACharacter
 {
@@ -25,5 +34,11 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	UFUNCTION(BlueprintPure)
+	PhoneAttackMode IsAttack() const;
+
+    UPROPERTY(EditAnywhere)
+    PhoneAttackMode attackMode = PhoneAttackMode::Standby;
 
 };

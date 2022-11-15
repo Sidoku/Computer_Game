@@ -8,7 +8,7 @@ ALaptop_Character::ALaptop_Character()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
+    
 }
 
 // Called when the game starts or when spawned
@@ -30,5 +30,11 @@ void ALaptop_Character::SetupPlayerInputComponent(UInputComponent* PlayerInputCo
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+}
+
+LaptopAttackMode ALaptop_Character::IsAttack() const
+{
+	
+	return ALaptop_Character::attackistrue;
 }
 

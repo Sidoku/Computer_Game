@@ -32,3 +32,9 @@ void APhone_Character::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 
 }
 
+PhoneAttackMode APhone_Character::IsAttack() const
+{
+	
+	return APhone_Character::attackMode;
+}
+

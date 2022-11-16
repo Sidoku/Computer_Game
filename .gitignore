@@ -1,5 +1,5 @@
 # Visual Studio code user specific files
-.vscode/
+.vscode/*
 
 # Compiled Object files
 *.slo

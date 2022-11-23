@@ -3,7 +3,12 @@
 
 #include "laptop_AIController.h"
 #include "BehaviorTree/BlackboardComponent.h"
+#include "Navigation/CrowdFollowingComponent.h"
 
+Alaptop_AIController::Alaptop_AIController(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer.SetDefaultSubobjectClass<UCrowdFollowingComponent>(TEXT("PathFollowingComponent")))
+{
+   
+}
 
 void Alaptop_AIController::BeginPlay()
 {

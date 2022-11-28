@@ -3,6 +3,12 @@
 
 #include "Phone_AIController.h"
 #include "BehaviorTree/BlackboardComponent.h"
+#include "Navigation/CrowdFollowingComponent.h"
+
+APhone_AIController::APhone_AIController(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer.SetDefaultSubobjectClass<UCrowdFollowingComponent>(TEXT("PathFollowingComponent")))
+{
+   
+}
 
 void APhone_AIController::BeginPlay()
 {

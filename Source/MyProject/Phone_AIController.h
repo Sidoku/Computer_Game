@@ -13,6 +13,9 @@ UCLASS()
 class MYPROJECT_API APhone_AIController : public AAIController
 {
 	GENERATED_BODY()
+
+    APhone_AIController(const FObjectInitializer& ObjectInitializer);
+
 	protected:
 		virtual void BeginPlay();
 

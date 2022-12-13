@@ -1,19 +1,14 @@
 {
-    "configurations": [
-        {
-            "name": "MyProjectEditor Editor Win64 Development (MyProject)",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\.vscode\\compileCommands_MyProject.json",
-            "cStandard": "c17",
-            "cppStandard": "c++17"
-        },
-        {
-            "name": "Win32",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\.vscode\\compileCommands_Default.json",
-            "cStandard": "c17",
-            "cppStandard": "c++17"
-        }
-    ],
-    "version": 4
+	"configurations": [
+		{
+			"name": "MyProjectEditor Editor Win64 Development (MyProject)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "H:\\My Drive\\Unreal_projects\\Computer_Game\\.vscode\\compileCommands_MyProject.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "H:\\My Drive\\Unreal_projects\\Computer_Game\\.vscode\\compileCommands_Default.json"
+		}
+	]
 }

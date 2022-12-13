@@ -4,149 +4,149 @@
 		{
 			"name": "Launch MyProject (Debug)",
 			"request": "launch",
-			"program": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"program": "H:\\My Drive\\Unreal_projects\\Computer_Game\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "MyProject Win64 Debug Build",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\Unreal Engine\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch MyProject (DebugGame)",
 			"request": "launch",
-			"program": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"program": "H:\\My Drive\\Unreal_projects\\Computer_Game\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "MyProject Win64 DebugGame Build",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\Unreal Engine\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch MyProject (Development)",
 			"request": "launch",
-			"program": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Binaries\\Win64\\UnrealGame.exe",
+			"program": "H:\\My Drive\\Unreal_projects\\Computer_Game\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "MyProject Win64 Development Build",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\Unreal Engine\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch MyProject (Test)",
 			"request": "launch",
-			"program": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"program": "H:\\My Drive\\Unreal_projects\\Computer_Game\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "MyProject Win64 Test Build",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\Unreal Engine\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch MyProject (Shipping)",
 			"request": "launch",
-			"program": "D:\\Unreal_Projects\\C_Game\\Unreal_test\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"program": "H:\\My Drive\\Unreal_projects\\Computer_Game\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 			"preLaunchTask": "MyProject Win64 Shipping Build",
 			"args": [
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\Unreal Engine\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch MyProjectEditor (Debug)",
 			"request": "launch",
-			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"program": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "MyProjectEditor Win64 Debug Build",
 			"args": [
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject"
+				"H:\\My Drive\\Unreal_projects\\Computer_Game\\MyProject.uproject"
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\Unreal Engine\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch MyProjectEditor (DebugGame)",
 			"request": "launch",
-			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"program": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "MyProjectEditor Win64 DebugGame Build",
 			"args": [
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject"
+				"H:\\My Drive\\Unreal_projects\\Computer_Game\\MyProject.uproject"
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\Unreal Engine\\UE_5.0"
 			}
 		},
 		{
 			"name": "Launch MyProjectEditor (Development)",
 			"request": "launch",
-			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"program": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "MyProjectEditor Win64 Development Build",
 			"args": [
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject"
+				"H:\\My Drive\\Unreal_projects\\Computer_Game\\MyProject.uproject"
 			],
-			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\Unreal Engine\\UE_5.0"
 			}
 		},
 		{
 			"name": "Generate Project Files",
 			"type": "coreclr",
 			"request": "launch",
-			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"program": "D:\\Epic Games\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"-project=H:\\My Drive\\Unreal_projects\\Computer_Game\\MyProject.uproject",
 				"-game",
 				"-engine"
 			],
 			"console": "externalTerminal",
 			"stopAtEntry": false,
-			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			"cwd": "D:\\Epic Games\\Unreal Engine\\UE_5.0"
 		}
 	]
 }

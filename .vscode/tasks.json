@@ -9,7 +9,7 @@
 				"MyProject",
 				"Win64",
 				"Debug",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -26,7 +26,7 @@
 				"MyProject",
 				"Win64",
 				"Debug",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -46,7 +46,7 @@
 				"MyProject",
 				"Win64",
 				"Debug",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -63,7 +63,7 @@
 				"MyProject",
 				"Win64",
 				"DebugGame",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -80,7 +80,7 @@
 				"MyProject",
 				"Win64",
 				"DebugGame",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -100,7 +100,7 @@
 				"MyProject",
 				"Win64",
 				"DebugGame",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -117,7 +117,7 @@
 				"MyProject",
 				"Win64",
 				"Development",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -134,7 +134,7 @@
 				"MyProject",
 				"Win64",
 				"Development",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -154,7 +154,7 @@
 				"MyProject",
 				"Win64",
 				"Development",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -171,7 +171,7 @@
 				"MyProject",
 				"Win64",
 				"Test",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -188,7 +188,7 @@
 				"MyProject",
 				"Win64",
 				"Test",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -208,7 +208,7 @@
 				"MyProject",
 				"Win64",
 				"Test",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -225,7 +225,7 @@
 				"MyProject",
 				"Win64",
 				"Shipping",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -242,7 +242,7 @@
 				"MyProject",
 				"Win64",
 				"Shipping",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -262,277 +262,7 @@
 				"MyProject",
 				"Win64",
 				"Shipping",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Debug Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Debug",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Debug Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Debug",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"MyProject HoloLens Debug Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Debug Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Debug",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens DebugGame Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"DebugGame",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens DebugGame Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"DebugGame",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"MyProject HoloLens DebugGame Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens DebugGame Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"DebugGame",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Development Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Development",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Development Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Development",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"MyProject HoloLens Development Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Development Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Development",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Test Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Test",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Test Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Test",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"MyProject HoloLens Test Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Test Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Test",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Shipping Build",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Shipping",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Shipping Rebuild",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Build.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Shipping",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
-				"-waitmutex"
-			],
-			"problemMatcher": "$msCompile",
-			"dependsOn": [
-				"MyProject HoloLens Shipping Clean"
-			],
-			"type": "shell",
-			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
-			}
-		},
-		{
-			"label": "MyProject HoloLens Shipping Clean",
-			"group": "build",
-			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-			"args": [
-				"MyProject",
-				"HoloLens",
-				"Shipping",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -549,7 +279,7 @@
 				"MyProjectEditor",
 				"Win64",
 				"Debug",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -566,7 +296,7 @@
 				"MyProjectEditor",
 				"Win64",
 				"Debug",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -586,7 +316,7 @@
 				"MyProjectEditor",
 				"Win64",
 				"Debug",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -603,7 +333,7 @@
 				"MyProjectEditor",
 				"Win64",
 				"DebugGame",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -620,7 +350,7 @@
 				"MyProjectEditor",
 				"Win64",
 				"DebugGame",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -640,7 +370,7 @@
 				"MyProjectEditor",
 				"Win64",
 				"DebugGame",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -657,7 +387,7 @@
 				"MyProjectEditor",
 				"Win64",
 				"Development",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -674,7 +404,7 @@
 				"MyProjectEditor",
 				"Win64",
 				"Development",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -694,7 +424,7 @@
 				"MyProjectEditor",
 				"Win64",
 				"Development",
-				"D:\\Unreal_Projects\\C_Game\\Unreal_test\\MyProject.uproject",
+				"C:\\Unreal Projects\\Computer_Game\\MyProject.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",

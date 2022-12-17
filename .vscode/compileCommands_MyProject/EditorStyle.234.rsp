@@ -1,5 +1,5 @@
 /FI "C:\Program Files\Epic Games\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Development\EditorStyle\Definitions.EditorStyle.h" 
-/FI "D:\Unreal_Projects\C_Game\Unreal_test\Intermediate\Build\Win64\MyProjectEditor\Development\Slate\SharedPCH.Slate.ShadowErrors.h" 
+/FI "C:\Unreal Projects\Computer_Game\Intermediate\Build\Win64\MyProjectEditor\Development\Slate\SharedPCH.Slate.ShadowErrors.h" 
 /I "C:\Program Files\Epic Games\UE_5.0\Engine\Source" 
 /I "C:\Program Files\Epic Games\UE_5.0\Engine\Source\Editor\EditorStyle\Private" 
 /I "C:\Program Files\Epic Games\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\SlateCore" 

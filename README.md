@@ -1,7 +1,7 @@
 Computer Game
 ===========
 <div align="center">
-    <img width="30%" src="StartScreen.png">
+    <img width="30%" src="Images/ComputerGame.png">
 </div>
 
 ## Project Concept
@@ -24,8 +24,8 @@ This third person combat adventurer is inspired by God of War. The focus of this
 Below are some screenshots of the game:
 
 <p align="center">
-<img height="500" width="300" src="Gameplay.png">
-<img height="500" width="300" src="GameOver.png">
+<img height="500" width="300" src="/Images/Platform_Vertical.png">
+<img height="500" width="300" src="/ImagesPlatform_Hortizontal.png">
 </p>
 
 ## Getting Started

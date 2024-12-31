@@ -24,8 +24,8 @@ This third person combat adventurer is inspired by God of War. The focus of this
 Below are some screenshots of the game:
 
 <p align="center">
-<img height="500" width="300" src="/Images/Platform_Vertical.png">
-<img height="500" width="300" src="/ImagesPlatform_Hortizontal.png">
+<img height="500" width="500" src="/Images/Platform_Vertical.png">
+<img height="500" width="500" src="/Images/Platform_Hortizontal.png">
 </p>
 
 ## Getting Started

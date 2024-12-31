@@ -26,6 +26,10 @@ Below are some screenshots of the game:
 <p align="center">
 <img height="500" width="500" src="/Images/Platform_Vertical.png">
 <img height="500" width="500" src="/Images/Platform_Hortizontal.png">
+<img height="500" width="500" src="/Images/PhoneBT.png"> 
+<img height="500" width="500" src="/Images/PhoneBP.png">
+<img height="500" width="500" src="/Images/LaptopBT.png">
+<img height="500" width="500" src="/Images/LaptopBP.png">
 </p>
 
 ## Getting Started
